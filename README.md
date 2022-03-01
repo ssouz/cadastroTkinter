@@ -1,4 +1,4 @@
-Sistema de cadastro de estoque feito em python com interface grafica com possibilidade de integracao com banco de dados 
+Sistema de cadastro de estoque feito em python com interface grafica e com possibilidade de integracao com banco de dados 
 
 
 
